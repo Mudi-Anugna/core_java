@@ -1,7 +1,6 @@
-package Demo;
+package com.tnsif.constructor;
 
-public class java {
-	
+public class Constructordemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
