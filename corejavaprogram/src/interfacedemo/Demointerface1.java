@@ -17,7 +17,7 @@ public class Demointerface1 implements Parentinterface,Childinterface {
 	}
 
 	public static void main(String[]args) {
-		Demointerface1 d=new Demointerface1();
+		Demointerface1 d=new Demointerface1 ();
 		d.show();
 		d.print();
 	}
